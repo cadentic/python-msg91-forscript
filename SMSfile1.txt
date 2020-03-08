@@ -1,0 +1,25 @@
+Filesystem     Type      Size  Used Avail Use% Mounted on
+udev           devtmpfs  1.1G     0  1.1G   0% /dev
+tmpfs          tmpfs     224M  1.2M  223M   1% /run
+/dev/sda1      ext4      9.8G  6.3G  3.0G  68% /
+tmpfs          tmpfs     1.1G     0  1.1G   0% /dev/shm
+tmpfs          tmpfs     5.0M  4.0K  5.0M   1% /run/lock
+tmpfs          tmpfs     1.1G     0  1.1G   0% /sys/fs/cgroup
+/dev/loop0     squashfs  4.3M  4.3M     0 100% /snap/gnome-calculator/501
+/dev/loop2     squashfs  1.0M  1.0M     0 100% /snap/gnome-logs/81
+/dev/loop4     squashfs   90M   90M     0 100% /snap/core/7917
+/dev/loop1     squashfs   15M   15M     0 100% /snap/gnome-characters/317
+/dev/loop5     squashfs   45M   45M     0 100% /snap/gtk-common-themes/1353
+/dev/loop3     squashfs   55M   55M     0 100% /snap/core18/1223
+/dev/loop6     squashfs  150M  150M     0 100% /snap/gnome-3-28-1804/71
+tmpfs          tmpfs     224M  5.7M  219M   3% /run/user/124
+/dev/loop7     squashfs   55M   55M     0 100% /snap/core18/1668
+/dev/loop8     squashfs   92M   92M     0 100% /snap/core/8689
+/dev/loop9     squashfs   15M   15M     0 100% /snap/gnome-characters/399
+/dev/loop10    squashfs  4.3M  4.3M     0 100% /snap/gnome-calculator/544
+/dev/loop11    squashfs   45M   45M     0 100% /snap/gtk-common-themes/1440
+/dev/loop12    squashfs  161M  161M     0 100% /snap/gnome-3-28-1804/116
+tmpfs          tmpfs     224M  8.0K  224M   1% /run/user/1000
+sayantan@sayantan-VirtualBox:~$
+
+
