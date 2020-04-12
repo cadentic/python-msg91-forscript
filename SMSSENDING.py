@@ -12,7 +12,7 @@ import urllib.request # Python URL functions
 authkey = "YOUR_AUTHKEY" # Your authentication key.
 
 mobiles = "YOUR_NUMBER"
-#open("SMSmobileNumber.txt", "r") #"7760271687,7890539266,9073119637" # Multiple mobiles numbers separated by comma.
+#open("SMSmobileNumber.txt", "r") # Multiple mobiles numbers separated by comma.
 
 message = open("SMSfile1.txt", "r")
 #message1 = open("SMSfile2.txt", "r")
